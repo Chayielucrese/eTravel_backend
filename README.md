@@ -5,7 +5,11 @@ It handles all business logic, user management, ride booking, agency and driver 
 Key Responsibilities
 
 -User authentication and role management (Client, Driver, Agency, Admin)
+
 -Ride booking and scheduling
+
 -Vehicle and route management
+
 -Notifications and request handling
+
 -Integration with MongoDB
